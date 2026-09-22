@@ -1,7 +1,6 @@
 D,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-<<<<<<< Updated upstream
-1,task,f42c16d,closed,Phase I: Task 1,Alfred,Alfred,21-Sep,27-Sep,21-sep,
-,task,8b1b90f,closed,Phase I: Task 1,Freeborn,Freeborn,22-Sep,21-Sep,22-Sep,
-=======
 1, Task A, ec42cc3, closed, Phase I: Task A, Alfred, Alfred, 27-Sep, 21-Sep, 21-Sep, First Commit
->>>>>>> Stashed changes
+2,task,8b1b90f,closed,Phase I: Task 1,Freeborn,Freeborn,22-Sep,21-Sep,22-Sep, Second commit
+3,task,1376250,closed,Phase I: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, Issue tracker update
+4,task,c5b5e26,closed,Phase I: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, issue tracker update before commit merge conflict (test)
+5,task,b0accaf,closed,Phase I: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, merge conflict fixed
