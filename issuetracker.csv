@@ -1,2 +1,3 @@
 D,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-1,task,f42c16d,closed,Phase I: Task 1,,Garon,6-Oct,2-Oct,4-Oct,
+1,task,f42c16d,closed,Phase I: Task 1,Alfred,Alfred,21-Sep,27-Sep,21-sep,
+,task,8b1b90f,closed,Phase I: Task 1,Freeborn,Freeborn,22-Sep,21-Sep,22-Sep,
