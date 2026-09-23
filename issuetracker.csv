@@ -14,9 +14,7 @@ D,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 12,task,6068ce1,closed,Phase 2: Task 2,,Anthony,27-Sep,23-Sep,21-Sep,Issue tracker update Task B Commit
 13,task,1a59bfd,closed,Phase 3: Task 3,,Anthony,27-Sep,23-Sep,21-Sep,Task C Commit
 14,task,9e24a3e,closed,Phase 3: Task 3,Alfred,Anthony,27-Sep,21-Sep,23-Sep, Mistake while writing code
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-=======
 15,task,80c7cd1,closed,Phase 3: Task 3,,Anthony,27-Sep,23-Sep,21-Sep,Mistake code correction
->>>>>>> f8a2f6cd4726b7c7a3a91e0b989a96160bcdbfd0
+16,task,6db2c72,closed,Phase 3: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, Commit Tress clean up
+17,task,3e05174,closed,Phase 3: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, Commit Tree clen up (last commit failed)
+18,task,57f213b,closed,Phase 3: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, Last commit with minor fixes on Issue tracker and code.
