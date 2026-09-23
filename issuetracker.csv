@@ -5,7 +5,7 @@ D,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 4,task,c5b5e26,closed,Phase 1: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, issue tracker update before commit merge conflict (test)
 5,task,b0accaf,closed,Phase 1: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, merge conflict fixed
 6,task,787a8cd,closed,Phase 1,,Anthony,27-Sep,22-Sep,22-Sep,Issue tracker update
-7,task,2f56f2a,closed,Phase 1: Task 2,Alfred,Alfred,22-Sep,21-Sep,22-Sep, Task B commit
+7,task,2f56f2a,closed,Phase 2: Task 2,Alfred,Alfred,22-Sep,21-Sep,22-Sep, Task B commit
 8,task,ec91404,closed,Phase 2: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, issue tracker commit Task B Update
 9,task,c24799b,closed,Phase 3: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, Task C commit
 10,task,b80df90,closed,Phase 3: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, issue tracker commit Task C Update
