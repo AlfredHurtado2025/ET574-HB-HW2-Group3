@@ -6,3 +6,10 @@ print("Anthony Task A")
 print()
 
 print("Alfred Task B")
+print("")
+print("")
+print()
+
+print("Alfred task C")
+print("")
+print("")
