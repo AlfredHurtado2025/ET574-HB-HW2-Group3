@@ -11,3 +11,4 @@ D,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 10,task,b80df90,closed,Phase 3: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, issue tracker commit Task C Update
 11,task,804e71c,closed,Phase 2: Task 2,,Anthony,27-Sep,23-Sep,23-Sep,Task B Commit
 12,task,6068ce1,closed,Phase 2: Task 2,,Anthony,27-Sep,23-Sep,23-Sep,Issue tracker update Task B Commit
+13,task,1a59bfd,closed,Phase 3: Task 3,,Anthony,27-Sep,23-Sep,23-Sep,Task C Commit
