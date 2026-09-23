@@ -1,5 +1,6 @@
 D,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1, Task A, ec42cc3, closed, Phase I: Task A, Alfred, Alfred, 27-Sep, 21-Sep, 21-Sep, First Commit
+<<<<<<< Updated upstream
 2,task,8b1b90f,closed,Phase 1: Task 1,Freeborn,Freeborn,22-Sep,21-Sep,22-Sep, Second commit
 3,task,1376250,closed,Phase 1: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, Issue tracker update
 4,task,c5b5e26,closed,Phase 1: Task 1,Alfred,Alfred,22-Sep,21-Sep,22-Sep, issue tracker update before commit merge conflict (test)
@@ -13,3 +14,5 @@ D,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 12,task,6068ce1,closed,Phase 2: Task 2,,Anthony,27-Sep,23-Sep,21-Sep,Issue tracker update Task B Commit
 13,task,1a59bfd,closed,Phase 3: Task 3,,Anthony,27-Sep,23-Sep,21-Sep,Task C Commit
 14,task,9e24a3e,closed,Phase 3: Task 3,Alfred,Anthony,27-Sep,21-Sep,23-Sep, Mistake while writing code
+=======
+>>>>>>> Stashed changes
