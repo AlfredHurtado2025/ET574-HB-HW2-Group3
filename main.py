@@ -6,6 +6,7 @@ print("Anthony Task A")
 print()
 
 print("Alfred Task B")
+print("freeborn Task B")
 
 print()
 
