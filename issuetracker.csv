@@ -13,3 +13,4 @@ D,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 12,task,6068ce1,closed,Phase 2: Task 2,,Anthony,27-Sep,23-Sep,21-Sep,Issue tracker update Task B Commit
 13,task,1a59bfd,closed,Phase 3: Task 3,,Anthony,27-Sep,23-Sep,21-Sep,Task C Commit
 14,task,9e24a3e,closed,Phase 3: Task 3,Alfred,Anthony,27-Sep,21-Sep,23-Sep, Mistake while writing code
+15,task,80c7cd1,closed,Phase 3: Task 3,,Anthony,27-Sep,23-Sep,21-Sep,Mistake code correction
