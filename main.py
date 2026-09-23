@@ -3,12 +3,10 @@
 print("Alfred Task A")
 print("Freeborn Task A")
 print("Anthony Task A")
-print()
-
+print("Anthony Task B")
 print("Alfred Task B")
 print("freeborn Task B")
-
-print()
-
+print("Anthony Task C")
 print("Alfred task C")
 print("freeborn Task C")
+
